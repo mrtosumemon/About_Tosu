@@ -30,7 +30,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/isu-op-op/count.svg" />
  <h2>ɪ αм αναιℓαвℓє αт<h2>
-<a href="https://github.com/isu-op-op"><img alt="Website" src="https://img.shields.io/badge/𝐒𝐔𝐌𝐈𝐓-red"></a>
+<a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kya_rakhu_smjh_nhi_aa_rha)
