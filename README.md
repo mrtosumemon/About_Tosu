@@ -1,21 +1,25 @@
 
-                                                         < ──「 𝘼𝙗𝙤𝙪𝙩 𝙎𝙐𝙈𝙄𝙏」──>
+                                                         < ──「 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 」──>
                                                           
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
   
  ━━━━━━━━━━━━━━━━━━━   
  
-  ✪ иαмє- ѕυмιт
+  ●♡ 🄽ᴀᴍᴇ: 𝐒ʜɪᴠᴀɴsʜᴜ 𝐃ᴇᴏ
 
-  ✪ αgє- 17
+●♡ 🄰ɢᴇ    :  𝐊𝐲𝐚 𝐤𝐚𝐫𝐨𝐠𝐞 𝐣𝐚𝐚𝐧 𝐤𝐚𝐫..?★●
 
-  ✪  иσω ιи - 11тн 
+●♡ 🅂ᴜʙᴊᴇᴄᴛ : 𝐒ᴄɪᴇɴᴄᴇ (  )
 
-  ✪  ѕтяєαм - ρ¢м 
+●♡ 🄲ʟᴀss :    𝐒𝐞𝐜𝐫𝐞𝐭 🤫★●
 
-  ✪  яєgισи - ιи∂ια
+●♡ 🄻ɪᴠᴇ 𝐈ɴ :   𝐈ɴᴅɪᴀ ☆●
 
-  ✪  ∂.σ.в - 30/9
+●♡ 🄱ɪʀᴛʜᴅᴀʏ :  𝐒𝐨𝐨𝐧 😂 ★●
+
+●♡ 🄸𝐧𝐬𝐭𝐚 𝐈𝐝 :  Shivanshu_Deo
+
+●♡ 🅂𝐧𝐚𝐩 𝐈𝐝 : ShivanshuDeo
   
  ━━━━━━━━━━━━━━━━━━━   
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
