@@ -1,4 +1,4 @@
- < ──「 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 」──>
+ < ──「 🖤ꜱнͥινͣαͫиѕнυ🖤 」──>
                                                           
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
   
@@ -36,7 +36,7 @@
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/TheChampu/count.svg" />
- <h2>🖤ꜱ⃟нͥινͣαͫиѕнυ🖤<h2>
+ <h2>🖤ꜱнͥινͣαͫиѕнυ🖤<h2>
 
 <a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
  
