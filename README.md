@@ -25,7 +25,7 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=TheChampu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=𝕮𝖍𝖆𝖒𝖕𝖚+GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=TheChampu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Champu's+GitHub+Stats"
     />
 <img
         width="49%"
