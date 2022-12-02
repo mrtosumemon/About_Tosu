@@ -56,7 +56,7 @@
  
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=TheChampu)
  
-<h4> му тєℓєgяαм вσтѕ<h4>
+<h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
  
 [![ROBOT](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/cruella_robot)
 [![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/champu_ka_bot)
