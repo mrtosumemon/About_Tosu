@@ -44,7 +44,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Shivanshu_deo)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-Yellow?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
-[![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/shivanshudeo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](https://telegra.ph/%EA%9C%B1n%CE%B9%CE%BD%CE%B1i%D1%95n%CF%85-12-02)
 [![Youtube](https://img.shields.io/badge/-Youtube-E1306C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shivanshudeo)
 
 
