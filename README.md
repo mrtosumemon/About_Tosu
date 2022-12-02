@@ -42,15 +42,16 @@
  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/_sumit_____ss_)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/Shivanshu_deo)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-Yellow?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.instagram.com/https://www.instagram.com/_sumit_____ss_)
 [![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=green)](ShivanshuDeo@gmail.com)
- <h3>ɪ αм нєяє тσ ℓєαяи  тнє мαкιиg σf вσтѕ αи∂ ¢σ∂ιиg</h3>
+ <h3></h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 </div>
  
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=issu-op)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=TheChampu)
  
 <h4> му тєℓєgяαм вσтѕ<h4>
  
