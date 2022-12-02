@@ -1,4 +1,4 @@
- < ──「 🖤ꜱнͥινͣαͫиѕнυ🖤 」──>
+      「 🖤ꜱнͥινͣαͫиѕнυ🖤 」
 #  [![GIF](https://github.com/TheChampu/ChampuMusic/blob/master/TheChampu.gif)](https://github.com/TheChampu)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")
                                                           
@@ -58,9 +58,8 @@
  
 <h4> му тєℓєgяαм вσтѕ<h4>
  
-[![ROBOT](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/bellyxrobot)
-[![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/bellyvcxbot)
-[![STRING](https://img.shields.io/badge/STRING-0078D6?style=for-the-badge&logo=string&logoColor=white)](https://t.me/sessionfinderbot)
+[![ROBOT](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/cruella_robot)
+[![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/champu_ka_bot)
 
 <h1> <img src="https://github.com/isu-op-op/isu-op-op/blob/master/resources/songs.gif" width="80px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
