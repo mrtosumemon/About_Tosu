@@ -1,5 +1,4 @@
-
-                                                         < ──「 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 」──>
+                                    < ──「 🖤ꜱ⃟нͥινͣαͫиѕнυ🖤 」──>
                                                           
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
   
@@ -9,33 +8,42 @@
 
 ●♡ 🄰ɢᴇ    :  𝐊𝐲𝐚 𝐤𝐚𝐫𝐨𝐠𝐞 𝐣𝐚𝐚𝐧 𝐤𝐚𝐫..?
 
-●♡ 🅂ᴜʙᴊᴇᴄᴛ : 𝐒ᴄɪᴇɴᴄᴇ (  )
+●♡ 🅂ᴜʙᴊᴇᴄᴛ : 𝐒ᴄɪᴇɴᴄᴇ ( 𝐏𝐂𝐌 )
 
 ●♡ 🄲ʟᴀss :    𝐒𝐞𝐜𝐫𝐞𝐭 🤫★●
 
 ●♡ 🄻ɪᴠᴇ 𝐈ɴ :   𝐈ɴᴅɪᴀ ☆●
 
-●♡ 🄱ɪʀᴛʜᴅᴀʏ :  𝐒𝐨𝐨𝐧 😂 ★●
+●♡ 🄱ɪʀᴛʜᴅᴀʏ :  𝟐𝟔-𝐅ᴇʙʀᴜᴀʀʏ  ★●
 
-●♡ 🄸𝐧𝐬𝐭𝐚 𝐈𝐝 :  [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/shivanshu_deo)
+ ━━━━━━━━━━━━━━━━━━━  
 
-●♡ 🅂𝐧𝐚𝐩 𝐈𝐝 : ShivanshuDeo
-  
- ━━━━━━━━━━━━━━━━━━━   
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=isu-op-op&show_icons=true&theme=radical)
-<h1> <img src="https://github.com/isu-op-op/isu-op-op/blob/master/resources/codes.webp" width="70px"> Hᴇʏ , ɪтѕ мє ѕυмɪт нєяє </h1>
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=TheChampu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+<img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=TheChampu&theme=tokyonight"
+    />
+</p>
+
+<h3>
+<h1> <img src="https://github.com/TheChampu/TheChampu/blob/master/resources/codes.webp" width="70px"> Hᴇʏ , ɪтѕ мє ѕυмɪт нєяє </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/isu-op-op/count.svg" />
- <h2>ɪ αм αναιℓαвℓє αт<h2>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/TheChampu/count.svg" />
+ <h2>🖤ꜱ⃟нͥινͣαͫиѕнυ🖤<h2>
+
 <a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kya_rakhu_smjh_nhi_aa_rha)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/_sumit_____ss_)
-[![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=green)](sumitxmon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=green)](ShivanshuDeo@gmail.com)
  <h3>ɪ αм нєяє тσ ℓєαяи  тнє мαкιиg σf вσтѕ αи∂ ¢σ∂ιиg</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
