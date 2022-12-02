@@ -61,6 +61,6 @@
 [![ROBOT](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/cruella_robot)
 [![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/champu_ka_bot)
 
-<h1> <img src="https://github.com/isu-op-op/isu-op-op/blob/master/resources/songs.gif" width="80px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<h1>  ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="SUMIT Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="𝕮𝖍𝖆𝖒𝖕𝖚 Spotify" width="75%" />](https://open.spotify.com/user/31upue756rj6rctmc2gxdwvj5vri?si=hVSKCshlR3WUDi8qXBKyXw&utm_source=copy-link)
