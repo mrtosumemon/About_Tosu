@@ -1,4 +1,6 @@
  < ──「 🖤ꜱнͥινͣαͫиѕнυ🖤 」──>
+#  [![GIF](https://github.com/TheChampu/ChampuMusic/blob/master/TheChampu.gif)](https://github.com/TheChampu)
+   [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")
                                                           
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
   
@@ -18,7 +20,7 @@
 
  ━━━━━━━━━━━━━━━━━━━  
 
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/@shivanshudeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <p align="center">
     <img
@@ -32,11 +34,9 @@
 </p>
 
 <h3>
-<h1> <img src="https://github.com/TheChampu/TheChampu/blob/master/resources/codes.webp" width="70px"> Hᴇʏ , ɪтѕ мє ѕυмɪт нєяє </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/TheChampu/count.svg" />
- <h2>🖤ꜱнͥινͣαͫиѕнυ🖤<h2>
 
 <a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
  
@@ -45,9 +45,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/Shivanshu_deo)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-Yellow?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.instagram.com/https://www.instagram.com/_sumit_____ss_)
 [![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=green)](ShivanshuDeo@gmail.com)
+
+
  <h3></h3>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/@shivanshudeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 </div>
  
