@@ -42,9 +42,10 @@
  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/Shivanshu_deo)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-Yellow?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.instagram.com/https://www.instagram.com/_sumit_____ss_)
-[![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=green)](ShivanshuDeo@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Shivanshu_deo)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-Yellow?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
+[![Gmail](https://img.shields.io/badge/Gmail-0072c6?style=for-the-badge&logo=microsoft-Outlook&logoColor=white)](ShivanshuDeo@gmail.com)
+[![Youtube](https://img.shields.io/badge/-Youtube-E1306C?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shivanshudeo)
 
 
  <h3></h3>
