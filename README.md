@@ -1,5 +1,5 @@
  ㅤ ㅤ ㅤㅤ 「 🖤ꜱнͥινͣαͫиѕнυ🖤 」
-#  [![GIF](https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif)](https://github.com/TheChampu)
+#  [![GIF](https://github.com/ChampuXD/ChampuMusic/blob/main/TheChampu.gif)](https://github.com/ChampuXD)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=ChampuXD "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=ChampuXD "𝕮𝖍𝖆𝖒𝖕𝖚")
                                                           
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
@@ -25,11 +25,11 @@
 <p align="center">
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=TheChampu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Champu's+GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=ChampuXD&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Champu's+GitHub+Stats"
     />
 <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=TheChampu&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=ChampuXD&theme=tokyonight"
     />
 </p>
 
@@ -54,12 +54,12 @@
 
 </div>
  
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=TheChampu)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ChampuXD)
  
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
  
-[![ROBOT](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/cruella_robot)
-[![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/champu_ka_bot)
+[![ROBOT](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/SexyMusicBot)
+[![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/TheKittyXD_Bot)
 
 <h1>  ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
