@@ -1,5 +1,5 @@
- ㅤ ㅤ ㅤㅤ 「 🖤ꜱнͥινͣαͫиѕнυ🖤 」
-  [![GIF](https://github.com/ChampuXD/ChampuMusic/blob/main/TheChampu.gif)](https://github.com/ChampuXD)
+ ㅤ ㅤ ㅤㅤ 「 🖤ᴛᴏsᴜᴍᴇᴍᴏɴ🖤 」
+  [![GIF](https://github.com/mrtosumemon/About_Tosu/blob/main/mrtosumemon.gif)](https://github.com/Mrtosumemon)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")
                                                           
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
